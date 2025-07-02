@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/addai/NeRF/nerfstudio"
+    ],
+    "ros.distro": "jazzy",
+}
